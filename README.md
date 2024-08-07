@@ -223,7 +223,7 @@ Step 12: Clean up
 
 - Go to Files Explorer
 - Go to Windoows (C)-> inetpub -> wwwroot -> osTicket -> setup (right click and delete)
-- Set Permissions to 'Read' only: Windoows (C)-> inetpub -> wwwroot -> osTicket -> include -> ost-config.php -> right click and go to Properties -> Security -> Advanced -> Double click 'Everyone' -> deselect 'Full control' , 'Modify' , and 'Write' -> click 'Ok' and Apply
+- Set Permissions to 'Read' only: Go to Windoows (C)-> inetpub -> wwwroot -> osTicket -> include -> ost-config.php -> right click and go to Properties -> Security -> Advanced -> Double click 'Everyone' -> deselect 'Full control' , 'Modify' , and 'Write' -> click 'Ok' and Apply
 
 
 
