@@ -172,7 +172,7 @@ Step 10: Rename ost-sampleconfig.php
 
 - Go to the wwwroot folder in File Explorer
 - Click on osTicket -> include-> scroll to find 'ost-sampleconfig.php' and rename it 'ost-config.php' (simply remove the word 'sample')
-- Right click ost-config.php -> click Properties -> click Security (tab at the top) -> click Advanced -> click Disable inheritance -> click pop up hyperlink that says 'Remove all inherited permissions-> click Add -> Select Principle -> type 'Everyone' in the object name field -> click Ok -> click 'Full Controll' -> click ok -> click Apply and then Ok
+- Right click ost-config.php -> click Properties -> click Security (tab at the top) -> click Advanced -> click Disable inheritance -> click pop up hyperlink that says 'Remove all inherited permissions-> click Add -> Select Principle -> type 'Everyone' in the object name field -> click Ok -> click 'Full Control' -> click ok -> click Apply and then Ok
 
 
 ![image](https://github.com/user-attachments/assets/7ea2f178-2e7e-477f-9468-16973cfda20b)
